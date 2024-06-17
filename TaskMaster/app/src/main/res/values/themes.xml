@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Base.Theme.TaskMaster" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FFD1DF</item>
+    </style>
+
+    <style name="Theme.TaskMaster" parent="Base.Theme.TaskMaster" />
+</resources>

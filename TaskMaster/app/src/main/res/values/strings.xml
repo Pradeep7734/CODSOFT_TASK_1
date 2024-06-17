@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+    <string name="task_done">Completed %s / %s</string>
+</resources>
